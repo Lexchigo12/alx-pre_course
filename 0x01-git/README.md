@@ -1,0 +1,1 @@
+This another way of coding in ALX where i uses emacs for everything 
